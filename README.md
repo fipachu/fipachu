@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fipachu
-- 👀 I’m interested in ... Minecraft, phisics and computer science
-- 🌱 I’m currently learning ... python, C
-- 💞️ I’m looking to collaborate on ... Minecraft
-- 📫 How to reach me ... @fipachu in Minecraft
+- 👀 I’m interested in Minecraft, phisics and computer science
+- 🌱 I’m currently learning python and C
+- 💞️ I’m looking to collaborate on Minecraft
+- 📫 How to reach me: @fipachu in Minecraft
 
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
