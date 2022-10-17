@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fipachu
 - 👀 I’m interested in Minecraft, phisics and computer science
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on Minecraft
 - 📫 How to reach me: @fipachu in Minecraft
 
