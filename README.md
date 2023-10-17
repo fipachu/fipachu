@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip
-- 👀 I’m interested in socializing, physics, and computer science
+- 👀 I’m interested in socializing, science, and programming
 - 🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844))
 - 💞️ I’m looking to collaborate on socializing
 - 📫 How to reach me: I haven't figured it out yet
