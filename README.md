@@ -6,7 +6,7 @@
 
 🦀 Rust good C bad.
 
-### [Amazing poem I wrote.](https://hyperskill.org/repeat/step/6683#solutions-2583206)
+### [Amazing poem I wrote.](amazing_poem.md)
 
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
