@@ -1,7 +1,7 @@
 ### Hi, I’m Filip ^^  
-👀 I’m interested in science, programming, and socializing  
-🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844))  
-💞️ I’m currently looking to collaborate on socializing  
+👀 I’m interested in science, programming, and socializing.  
+🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844)).  
+💞️ I’m currently looking to collaborate on socializing.  
 📫 How to reach me: I'm not sure. How does one reach anything?
 
 ### [Amazing poem I wrote.](https://hyperskill.org/repeat/step/6683#solutions-2583206)
