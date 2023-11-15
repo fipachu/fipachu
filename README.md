@@ -6,7 +6,7 @@
 
 🦀 Rust good C bad.
 
-### [Amazing poem I wrote.](amazing_poem.md)
+### [Amazing poem I wrote.](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
 
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
