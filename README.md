@@ -1,13 +1,15 @@
 ### Hi, I’m Filip ^^  
 👀 I’m interested in science, programming, and socializing.  
-🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844)).*  
+🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844)).[^1]  
 💞️ I’m currently looking to collaborate on socializing.  
 📫 How to reach me: I'm not sure. How does one reach anything?  
 
 🦀 Rust good C bad.
 
-\* I've already completed the track Introduction to Python. [Here's](https://hyperskill.org/certificates/559bb302-3095-4c03-9763-e911b1f2fab6.pdf) my certificate!
 ### [Amazing poem I wrote.](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
+
+
+[^1]: I've already completed the track Introduction to Python. [Here's](https://hyperskill.org/certificates/559bb302-3095-4c03-9763-e911b1f2fab6.pdf) my certificate!
 
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
