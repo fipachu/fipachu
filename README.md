@@ -4,7 +4,7 @@
 💞️ I’m currently looking to collaborate on socializing.  
 📫 How to reach me: I'm not sure. How does one reach anything?  
 
-🦀 Rust good C bad.
+🦀 Rust good C bad. Rust foundation stinky.
 
 ### [Amazing poem I wrote.](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
 
