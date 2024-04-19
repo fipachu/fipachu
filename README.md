@@ -1,7 +1,7 @@
 ### Hi, I’m Filip ^^  
 👀 I’m interested in science, programming, and socializing.  
 🌱 I’m currently learning Python with hyperskill.org ([profile](https://hyperskill.org/profile/88482844)).[^1]  
-💞️ I’m currently looking to collaborate on socializing.  
+💞️ I’m currently looking to collaborate on the search for love.  
 📫 How to reach me: Facebook. Otherwise open a pull request to fipachu/fipachu or something, you'll figure it out.
 
 🦀 Rust good C bad. Rust foundation stinky.
