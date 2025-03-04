@@ -1,7 +1,6 @@
 ### Hi, I’m Filip ^^  
 👀 I’m interested in science, programming, and socializing.  
 🌱 I’m currently doing a buch of random things, including working an entirely non-tech job 🤢.[^1]  
-💞️ I’m currently looking to collaborate on the search for love.  
 📫 How to reach me: Facebook. Otherwise open a pull request to fipachu/fipachu or something, you'll figure it out.
 
 🦀 Rust good C bad. Rust foundation stinky.
