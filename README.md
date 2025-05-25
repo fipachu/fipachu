@@ -1,15 +1,19 @@
-### Hi, I’m Filip ^^  
-👀 I’m interested in science, programming, and socializing.  
-🌱 I’m currently doing a buch of random things, including working an entirely non-tech job 🤢.[^1]  
-📫 How to reach me: Facebook. Otherwise open a pull request to fipachu/fipachu or something, you'll figure it out.
+🎓 Physics dropout from the fairytale-tourist-trap _Land of a Thousand Lakes, Poland_  
+📺 Fan of _The Expanse_, 🪨 Haz 5 enjoyer in _Deep Rock Galactic_, 🦀 aspiring _Rust_ fanatic  
+❄️ No tolerance for the "winter" season, cold, and frigid temperatures below +10 ℃  
+🐍 Graduate of _Python Core @ hyperskill.org_[^1]  
 
-🦀 Rust good C bad. Rust foundation stinky.
+🎮 Working on a _Pong_ clone for _PICO-8_  
+💼 Waiting for the market to capitalize on my potential   
+🕹️ Focusing on the essentials: gaming and self-discovery    
+🌊 Also: can't swim that well – **NOT** looking for a swimming job[^2]  
 
-### [Amazing poem I wrote.](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
+
+### [Click for my incredible poem about the _hyperskill_ linter](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
 
 
-[^1]: A while ago I've completed the track Python Core on Hyperskill. [Here's](https://hyperskill.org/certificates/fc0137f4-05fa-4ade-9525-c3e1c8d664dc.pdf) my certificate!
-
+[^1]: [Here's](https://hyperskill.org/certificates/fc0137f4-05fa-4ade-9525-c3e1c8d664dc.pdf) my certificate!
+[^2]: I'm dead serious, do **NOT** offer me any lifeguard or lifeguard related positions. No "Olimpic swimmer", no "Olimpic swimming instructor". Will **NOT** swim for money.
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
