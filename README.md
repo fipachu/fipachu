@@ -1,7 +1,7 @@
 🎓 Physics dropout from the fairytale-tourist-trap _Land of a Thousand Lakes, Poland_  
 📺 Fan of _The Expanse_, 🪨 Haz 5 enjoyer in _Deep Rock Galactic_, 🦀 aspiring _Rust_ fanatic  
 ❄️ No tolerance for the "winter" season, cold, and frigid temperatures below +10 ℃  
-🐍 Graduate of _Python Core @ hyperskill.org_[^1]  
+🐍 Graduate of _Python Core @ Hyperskill_[^1]  
 
 🎮 Working on a _Pong_ clone for _PICO-8_  
 💼 Waiting for the market to capitalize on my potential   
@@ -9,7 +9,7 @@
 🌊 Also: can't swim that well – **NOT** looking for a swimming job[^2]  
 
 
-### [Click for my incredible poem about the _hyperskill_ linter](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
+### [Click for my incredible poem about the _Hyperskill_ linter](https://github.com/fipachu/PythonProblems/blob/a46106481e943ac24223065ac9acedb08daa1657/Topics/Class%20vs%20instance/Sphere/main.py)
 
 
 [^1]: [Here's](https://hyperskill.org/certificates/fc0137f4-05fa-4ade-9525-c3e1c8d664dc.pdf) my certificate!
