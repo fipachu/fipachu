@@ -13,7 +13,7 @@
 
 
 [^1]: [Here's](https://hyperskill.org/certificates/fc0137f4-05fa-4ade-9525-c3e1c8d664dc.pdf) my certificate!
-[^2]: I'm dead serious, do **NOT** offer me any lifeguard or lifeguard related positions. No "Olimpic swimmer", no "Olimpic swimming instructor". Will **NOT** swim for money.
+[^2]: I'm dead serious, do **NOT** offer me any lifeguard or lifeguard related positions. No "Olimpic swimmer", no "Olimpic swimming instructor", not even "Olimpic swimming manager". Will **NOT** swim, oversee, instruct in, or otherwise aid and abet persons in swimming in exchange for monetary gain.
 <!---
 fipachu/fipachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
