@@ -1,6 +1,6 @@
 🎓 Physics dropout from the fairytale-tourist-trap _Land of a Thousand Lakes, Poland_  
 📺 Fan of _The Expanse_, 🪨 Haz 5 enjoyer in _Deep Rock Galactic_, 🦀 aspiring _Rust_ fanatic  
-❄️ No tolerance for the "winter" season, cold, and frigid temperatures below +10 ℃  
+❄️ No tolerance for the "winter" season, cold, and frigid temperatures (below +10 ℃)  
 🐍 Graduate of _Python Core @ Hyperskill_[^1]  
 
 🎮 Working on a _Pong_ clone for _PICO-8_  
